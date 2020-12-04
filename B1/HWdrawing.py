@@ -1,0 +1,12 @@
+from turtle import*
+left(60)
+forward(50)
+right (120)
+forward(50)
+right(140)
+forward(60)
+right(150)
+forward(60)
+right(160)
+forward(60)
+mainloop()
